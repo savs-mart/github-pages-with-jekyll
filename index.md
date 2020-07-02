@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Initial GH-Page
 
-I'm glad you are here. I plan to talk about ...
+Be careful, you`re on construction
